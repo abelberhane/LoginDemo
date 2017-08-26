@@ -12,7 +12,9 @@ I received this error: error on line 1 at column 2: StartTag: invalid element na
 
 ![alt text](https://github.com/abelberhane/LoginDemo/blob/master/SH.png?raw=true)
 
-After some googling and research, thats when I realized I did not have all the proper things installed to view and run the way that I do on my work computer. Lesson learned on why its important to work in the same environment or have it set up to be. Installing now.
+After some googling and research, thats when I realized I did not have all the proper things installed to view and run the way that I do on my work computer. Lesson learned on why its important to work in the same environment or have it set up to be. Installing IIS Components, Manager and updating my frameworks now.
+
+![alt text](https://github.com/abelberhane/LoginDemo/blob/master/IISSH.png?raw=true)
 
 Never the less, validation has been created to ensure the email is an email type, the passwords match and are hidden, the username is entered and country is selected. There is a reset button and I have created a submit button that provides a succesful message when the Login page has been submitted. 
 
