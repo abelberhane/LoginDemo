@@ -11,4 +11,9 @@ public partial class Registration : System.Web.UI.Page
     {
 
     }
+
+    protected void Button1_Click(object sender, EventArgs e)
+    {
+        Response.Write("You have succesfully submitted your Registration Information. You should receive an email shortly.");
+    }
 }
